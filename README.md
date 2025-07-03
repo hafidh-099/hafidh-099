@@ -45,15 +45,7 @@
   <a href="mailto:hafidhmwita30@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/hafidh-099"><img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/portfolio-coming soon-ff69b4?style=for-the-badge"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
-
----
+</p>s
 
 > _“Code hard. Hack safe. Design beautifully.”_ 🎨💻🔒  
 > — Hafidh Haji
