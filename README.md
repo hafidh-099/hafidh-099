@@ -1,7 +1,8 @@
 <!-- profile README.md -->
 
 <h1 align="center">Hi 👋, I'm Hafidh Haji</h1>
-<h3 align="center">A Curious Developer | Cybersecurity Enthusiast | Graphic Explorer</h3>
+<h1 align="center">H4fSec</h1>
+<h3 align="center">A Curious Developer and Cybersecurity Enthusiast </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -12,8 +13,7 @@
 🌍 **From:** Zanzibar, Tanzania  
 🎓 **Student at:** SUZA - Bachelor of Information Technology  
 🛡️ **CyberSec Passion:** Ethical Hacking | Forensics | Network Security  
-💻 **Dev Stack:** Full-stack Web & Mobile | System Design | UI/UX  
-🎨 **Creative Side:** Video/Image Editing, Graphic Design  
+💻 **Dev Stack:** Full-stack Web & Mobile | System Design | UI/UX   
 📬 **Reach me:** hafidhmwita30@gmail.com
 
 ---
@@ -38,17 +38,6 @@
 - 🧠 I debug 99% of the time, and the last 1% is… still debugging.  
 - 💬 I speak tech and Swahili fluently.  
 - 🎯 Motto: _“In the Shadows, We Protect”_ 🔥
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafidh-099&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafidh-099&theme=radical" width="47%" />
-</p>
-
----
 
 ### 🔗 Let's Connect
 
