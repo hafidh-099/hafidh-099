@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>In Shadow We Create and Protect.</em>
+  <em>In dark We Create and Protect.</em>
 </p>
 
 ---
